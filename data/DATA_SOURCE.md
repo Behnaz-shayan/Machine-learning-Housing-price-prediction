@@ -38,6 +38,3 @@ The data is originally from Kaggle: [King County House Sales](https://www.kaggle
 - **Time Period:** May 2014 - May 2015
 - **Geographic Location:** King County, Washington, USA
 - **Price Range:** Varies from $75,000 to $7,700,000
-
-### License & Usage
-This dataset is publicly available and can be used for educational, research, and commercial purposes.
