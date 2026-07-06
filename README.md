@@ -41,8 +41,6 @@ A comprehensive machine learning analysis predicting house prices in King County
 housing-price-prediction-ML/
 ├── README.md                                          # This file
 ├── requirements.txt                                   # Python dependencies
-├── LICENSE                                            # MIT License
-├── .gitignore                                         # Git ignore rules
 ├── Housing_Price_Prediction_Detailed_Report.docx      # Comprehensive technical report (0.79 MB)
 ├── data/
 │   ├── housing_data.csv                              # Dataset (21,613 records)
@@ -192,22 +190,6 @@ Comprehensive data exploration with 8 visualizations and statistical tests:
    - Hyperparameter tuning improves Decision Tree significantly (+18.9%)
    - Random Forest improvement modest (+1.1%), indicating good baseline
 
-## 📊 Statistical Tests & Analysis
-
-### Statistical Tests
-- **Shapiro-Wilk Test:** Normality assessment for continuous features
-- **Pearson Correlation:** Feature-price relationships with p-value significance testing
-- **5-Fold Cross-Validation:** Model generalization and robustness assessment
-- **GridSearchCV:** Systematic hyperparameter optimization
-
-### Comprehensive Report
-A detailed technical report (`Housing_Price_Prediction_Detailed_Report.docx`) is included with:
-- **9 Detailed Sections:** Executive summary, methodology, results, conclusions
-- **8 Embedded Visualizations:** Price distributions, feature relationships, model diagnostics, comparisons
-- **3 Data Tables:** Model performance, feature correlations, importance rankings
-- **Technical Depth:** Complete mathematical background, hyperparameter justification, business insights
-
-**Report Size:** 0.79 MB with professional formatting, ready for academic or portfolio submission
 
 ## 🛠 Technologies Used
 
@@ -230,16 +212,13 @@ A detailed technical report (`Housing_Price_Prediction_Detailed_Report.docx`) is
 ## 🎓 Educational Use
 
 This project demonstrates:
-- Complete ML workflow from data exploration to model deployment
+- Complete ML workflow 
 - Importance of EDA before modeling
 - Hyperparameter tuning best practices
 - Model comparison and selection criteria
 - Diagnostic visualization for model assessment
 - Statistical testing in ML contexts
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📚 References
 
@@ -250,4 +229,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Last Updated:** 2026  
-**Author:** Behnaz
+**Author:** Behnaz Korzebor
